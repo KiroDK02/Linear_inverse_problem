@@ -1,0 +1,14 @@
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\additionalFunctions.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Release\additionalFunctions.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\BiCGstab.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Release\BiCGstab.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\calcGlobalMatrix.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Release\calcGlobalMatrix.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\functionsForGlobalMatrix.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Release\functionsForGlobalMatrix.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\functionsOfArea.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Release\functionsOfArea.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\GaussSolver.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Release\GaussSolver.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\GMRES_LU.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Release\GMRES_LU.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\input.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Release\input.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Release\inverseProblemSolutionr.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\LOS_LU.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Release\LOS_LU.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\LUPrecondition.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Release\LUPrecondition.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\main.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Release\main.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\LinearAlgebraAlgorithms.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Release\LinearAlgebraAlgorithms.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\structures.h;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Release\structures.obj

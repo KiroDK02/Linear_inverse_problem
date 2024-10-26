@@ -1,0 +1,25 @@
+﻿  inverseProblemSolutionr.cpp
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(16,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(16,29): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(17,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(17,16): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(63,41): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(63,29): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(64,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(64,16): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(85,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(85,27): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(93,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(93,29): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(94,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(94,16): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(135,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(135,29): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(143,43): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp(143,27): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  Создание кода
+  2 of 844 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  DMPE_LR1.vcxproj -> C:\Users\Дмитрий\source\repos\DMPE_LR1\x64\Release\DMPE_LR1.exe

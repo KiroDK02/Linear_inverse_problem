@@ -1,0 +1,14 @@
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\additionalFunctions.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Debug\additionalFunctions.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\BiCGstab.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Debug\BiCGstab.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\calcGlobalMatrix.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Debug\calcGlobalMatrix.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\functionsForGlobalMatrix.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Debug\functionsForGlobalMatrix.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\functionsOfArea.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Debug\functionsOfArea.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\GaussSolver.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Debug\GaussSolver.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\GMRES_LU.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Debug\GMRES_LU.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\input.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Debug\input.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\inverseProblemSolutionr.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Debug\inverseProblemSolutionr.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\LOS_LU.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Debug\LOS_LU.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\LUPrecondition.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Debug\LUPrecondition.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\main.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Debug\main.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\LinearAlgebraAlgorithms.cpp;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Debug\LinearAlgebraAlgorithms.obj
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\structures.h;C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\x64\Debug\structures.h.obj

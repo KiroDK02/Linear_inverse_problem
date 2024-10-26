@@ -1,0 +1,15 @@
+﻿  Проверка источников на наличие зависимостей модуля…
+  BiCGstab.cpp
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\BiCGstab.cpp(5,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\BiCGstab.cpp(5,16): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\BiCGstab.cpp(68,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\BiCGstab.cpp(68,16): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\BiCGstab.cpp(79,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\BiCGstab.cpp(79,16): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\BiCGstab.cpp(129,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\BiCGstab.cpp(129,16): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\BiCGstab.cpp(154,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\BiCGstab.cpp(154,16): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\BiCGstab.cpp(242,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\DMPE_LR1\DMPE_LR1\BiCGstab.cpp(242,16): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  DMPE_LR1.vcxproj -> C:\Users\Дмитрий\source\repos\DMPE_LR1\x64\Debug\DMPE_LR1.exe

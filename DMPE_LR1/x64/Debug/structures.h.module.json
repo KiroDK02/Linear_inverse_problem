@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\structures.h.obj",
+            "outputs": [
+                "C:\\Users\\Дмитрий\\source\\repos\\DMPE_LR1\\DMPE_LR1\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\Дмитрий\\source\\repos\\DMPE_LR1\\DMPE_LR1\\x64\\Debug\\structures.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "structures.h",
+                    "source-path": "c:\\users\\дмитрий\\source\\repos\\dmpe_lr1\\dmpe_lr1\\structures.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
