@@ -35,7 +35,7 @@ void calcLU(SLAE &slae, SLAE &LU)
          int j0 = ig[j];
          int j1 = ig[j + 1];
 
-         for (int ik = i0, kj = i0; ik < i1 && kj < j1;)
+         for (int ik = i0, kj = j0; ik < i1 && kj < j1;)
          {
             if (jg[ik] > jg[kj]) kj++;
             else if (jg[ik] < jg[kj]) ik++;
